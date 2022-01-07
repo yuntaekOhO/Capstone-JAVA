@@ -5,6 +5,8 @@ HELP.md
 .idea
 lombok.config
 settings.gradle
+*.xml
+
 
 # Compiled class file
 *.class
